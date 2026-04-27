@@ -8,7 +8,7 @@ PublisherUrl: https://github.com/stillsystems
 PackageName: nexus-v
 PackageUrl: https://github.com/stillsystems/nexus-v
 License: MIT
-ShortDescription: A modern, zero-install VS Code extension scaffolder.
+ShortDescription: A modern VS Code extension scaffolder with zero runtime dependencies.
 Description: NEXUS-V replaces the legacy Yeoman generator with a single static binary that produces clean VS Code extension projects.
 Moniker: nexus-v
 Tags:
